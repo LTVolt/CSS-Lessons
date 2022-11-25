@@ -1,0 +1,22 @@
+div 
+{
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+    color: white;
+}
+.title
+{
+    background-color: blue;
+}
+
+.subtitle
+{
+    background-color: green;
+}
+
+.highlight
+{
+    background-color: yellow;
+}
+
